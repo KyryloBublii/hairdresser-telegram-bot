@@ -1,7 +1,8 @@
 ---
 title: Hairdresser Telegram Bot
 year: 2026
-tags: [Python, Telegram, async]
+languages: [Python]
+tags: [Telegram, async]
 status: complete
 cover: photos/main.jpg
 ---
